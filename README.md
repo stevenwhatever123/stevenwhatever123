@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me
-I am a programmer from Hong Kong, currently based in the Leeds, UK.  
+I am a programmer from Hong Kong, currently based in the Leeds, UK.   
 I graduated from Swansea University with Computer Science BSc (Hons) in 2021 and currently doing a master in High-Performance Graphics and Games Engineering MSc in the University of Leeds.
   
 
