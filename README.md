@@ -11,8 +11,7 @@ My interests are in computer graphics, especially in computer animation and game
 ### Programming and Skills
 - C/C++, C#, Java, Kotlin, Python, HTML and CSS, MySQL, Laravel, PHP  
 - Unity, Visual Studio 2022, git version control, Android Studio, Unix/maxOS  
-  
-Languages: - Chinese (Cantonese) and English
+- Languages: - Chinese (Cantonese) and English
 
 <!--
 **stevenwhatever123/stevenwhatever123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
