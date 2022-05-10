@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ### About me
-
+I am a programmer from Hong Kong, currently based in the Leeds, UK.
+  
+  
 
 
 <!--
