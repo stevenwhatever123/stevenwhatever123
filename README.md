@@ -7,6 +7,8 @@ I graduated from Swansea University with Computer Science BSc (Hons) in 2021 and
   
 My interests are in computer graphics, especially in computer animation and game engine development.  
   
+My CV can be found in here: https://github.com/stevenwhatever123/MyWebpage/blob/master/documents/cv.pdf  
+  
   
 ### Programming and Skills
 - C/C++, C#, Java, Kotlin, Python, HTML and CSS, MySQL, Laravel, PHP  
