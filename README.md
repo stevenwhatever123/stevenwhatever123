@@ -10,7 +10,7 @@ My interests are in computer graphics, especially in computer animation and game
   
 ### Programming and Skills
 - C/C++, C#, Java, Kotlin, Python, HTML and CSS, MySQL, Laravel, PHP  
-- Unity, Visual Studio 2022, OpenGL, Vulkan, git version control, Android Studio, Unix/maxOS  
+- Unity, Visual Studio 2022, OpenGL, Vulkan, git/perforce version control, Android Studio, Unix/maxOS  
 - Languages: - English and Chinese (Cantonese)
 
 <!--
